@@ -1,0 +1,21 @@
+{
+    "name": "kitlabs/yii2-graphql",
+    "description": "kitlabs yii GraphQL",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kitlabs-cn",
+            "email": "lcp0578@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kitlabs\\Graphql\\": ""
+        }
+    }
+}
